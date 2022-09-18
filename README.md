@@ -25,6 +25,8 @@ You can deploy this app directly to Heroku to see the app live. Skip the setup i
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/braintree/braintree_flask_example&env[BT_ENVIRONMENT]=sandbox)
 
+Test my LIVE app here using the sample card numbers below --> https://kanmipay.herokuapp.com
+
 ## Running tests
 
 Unit tests do not make API calls to Braintree and do not require Braintree credentials. You can run this project's unit tests by calling `python test_app.py` on the command line.
